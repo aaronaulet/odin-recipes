@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 10px;
+    color: white;
+}
+.lasagna{
+    background-color: #548CA8;
+}
+.smoothie{
+    background-color: #476072;
+}
+.chicken{
+    background-color: #334257;
+}
+a{
+    text-decoration: none;
+}
