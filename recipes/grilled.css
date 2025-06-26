@@ -22,3 +22,10 @@ img{
     padding: 2px;
     border: 3px solid lightblue;
 }
+div.list{
+    text-align:center;
+}
+.unorder{
+    display:inline-block;
+    text-align:left;
+}
