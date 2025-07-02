@@ -27,3 +27,10 @@ button{
 a{
     text-decoration:none;
 }
+div.list{
+    text-align:center;
+}
+.unorder{
+    display:inline-block;
+    text-align:left;
+}
